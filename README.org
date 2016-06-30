@@ -1,0 +1,2 @@
+* Scratch the itch 
+* This is a blog to scratch my itch about static site generators in general and hosting blog on github in particular rahuketu86.github.io
