@@ -5,7 +5,7 @@
 *** Focus on Writing
     I want to write more, publish more than code more. Development
     should be driven by workflow which is easiet and conducive to
-    write more blogs than more coding on the blog. If that means
+    write more blogs than require more coding for features. If that means
     maintaining entire blog in single org file than fine.
 
 *** Start Simple and improve progressively
@@ -19,4 +19,4 @@
 *** Scratch the itch
     This is in a way a blog to scratch my itch about static site
     generators in general driven by a desire to control the entire
-    possible stack for my blog.
+    possible stack.
