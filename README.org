@@ -1,2 +1,22 @@
-* Scratch the itch 
-  This is a blog to scratch my itch about static site generators in general and hosting blog on github in particular rahuketu86.github.io
+* PREAMBLE 
+
+** What do I want to do?
+
+*** Focus on Writing
+    I want to write more, publish more then code more. Development
+    should be driven by workflow which is easiet and conducive to
+    write more blogs than more coding on the blog. If that means
+    maintaining entire blog in single org file than fine.
+
+*** Start Simple and improve progressively
+    Focus on features which are required or are absolutely trivial to
+    implement and maintain than which are buzzwords or so called best
+    practises.
+
+*** Stay within org-mode and emacs as much as possible
+    This is infact reinstating above 2 points in a way.
+
+*** Scratch the itch
+    This is in a way a blog to scratch my itch about static site
+    generators in general driven by a desire to control the entire
+    possible stack for my blog.
