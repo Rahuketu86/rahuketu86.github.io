@@ -3,7 +3,7 @@
 ** What do I want to do?
 
 *** Focus on Writing
-    I want to write more, publish more then code more. Development
+    I want to write more, publish more than code more. Development
     should be driven by workflow which is easiet and conducive to
     write more blogs than more coding on the blog. If that means
     maintaining entire blog in single org file than fine.
