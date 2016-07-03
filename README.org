@@ -1,3 +1,8 @@
+#+TITLE: README File for my blog
+#+AUTHOR: Rahuketu86
+#+EMAIL: rahuketu86@gmail.com
+#+OPTIONS: toc:3 num:nil ^:nil
+
 * PREAMBLE 
 
 ** What do I want to do?
@@ -8,8 +13,11 @@
     conducive to write more blogs than more coding on the blog. If that means
     I want to write more, publish more than code more. Development
     should be driven by workflow which is easiet and conducive to
-    write more blogs than require more coding for features. If that means
-    maintaining entire blog in single org file than fine.
+    write more blogs than require more coding for features.
+    :Note:
+    If that means maintaining entire blog in single org file than fine.
+    :END:
+   
 
 *** Start Simple and improve progressively
     Focus on features which are required or are absolutely trivial to
