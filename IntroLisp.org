@@ -1,0 +1,58 @@
+#+TITLE: Crib Notes :: Introduction to Lisp
+#+AUTHOR: Rahul Saraf
+#+EMAIL: rahuketu86@gmail.com
+
+
+* Chapter 1: List Processing
+  1. Atom = Words in Lisp( indivisible)
+  2. Fundamental Function = car, cdr, cons
+  3. Array = atom which can be split into part :Splitting behavior is different from list. (Atom of a list are unsplittable as far as lisp operations are concerned.)
+  4. String = Anything quoted (single atom)
+  5. Function (Word) - "function" is a set of instruction to computer
+     that tell the computer to do something
+  6. Symbol - != set of instruction computer has to carry
+     out. Instead, symbol is used perhaps temporarly as a way of
+     locating the definition of set of instruction.
+  7. In Lisp one set of instruction can be attached to several names.
+  8. Symbol can have only one function attached to it at a time.
+  9. Idiomatic Elisp - associated function name with area it belongs
+     to eg: textinfo- ; rmail-
+  10. Elisp interpreter Steps:-
+      1. Check if there is a quote(') before the list.
+      2. IF QUOTE, Give List
+      3. IF NO QUOTE, Look at First Element in the List and check if
+         it's a function definition.
+      4. IF FUNCTION, carry out instruction
+      5. IF NOT FUNCTION, give a error message.
+  11. Symbol can have :-
+      1. Value attached to it.( Symbol in this case is Variable)
+      2. Function defintion attached to it.
+      3. Function and value attached to it at same time.
+      4. Chest of drawers - Function definition in one; value in
+         another drawer.
+      5. Value in value-drawer can be changed without changing
+         function drawer content.
+  12. Lisp Interpreter Evaluation
+      1. "Return" the value that the computer produces by carrying out
+         the instruction found in function defintion/error message.
+      2. It may sometime do something as well, such as move a cursor/
+         copy a file; this other kind of action is called a side effect.
+      3. Things which are imp to human are often "side-effects" to
+         lisp interpreter.
+      4. Evaluating a symbolic expression _most commonly_ causes lisp
+         interpreter to return a value and perhaps carry out a side
+         effect; or produce a error.
+      5. In many cases, a functioná primary purpose is to create a side-effect.
+  
+  #+BEGIN_SRC emacs-lisp
+    '(red blue yellow pink)
+  #+END_SRC
+
+  #+RESULTS:
+  | red | blue | yellow |
+
+* Chapter 2: Practising Evaluations
+  #+BEGIN_SRC emacs-lisp
+    (buffer-name)
+    (buffer-file-name)
+  #+END_SRC
