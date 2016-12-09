@@ -49,10 +49,34 @@
   #+END_SRC
 
   #+RESULTS:
-  | red | blue | yellow |
+  | red | blue | yellow | pink |
 
 * Chapter 2: Practising Evaluations
+  1. With parenthesis Lisp Interpreter will treat 'buffer-name' as
+     functions; without the parenthesis, the interpreter would attempt
+     to evaluate symbol as variables.
+  2. By Default, if the buffer from which you just switched is visible
+     to you in another window, 'other-buffer' will choose the most
+     recent buffer you cannot see. 
+
   #+BEGIN_SRC emacs-lisp
     (buffer-name)
     (buffer-file-name)
+    (current-buffer)
+    (other-buffer)
+    (switch-to-buffer (other-buffer))
+    (buffer-size)
+    (point)
   #+END_SRC
+
+  #+RESULTS:
+  : 210
+
+* Chapter 3: Writing Defuns
+  1. Emacs Lisp Function Definition
+  #+BEGIN_EXAMPLE
+    (defun FUNCTION-NAME (ARGUMENTS...)
+           "OPTIONAL-DOCUMENTATION for Function"
+           (interactive ARGUMENT-PASSING-INFO)   ;optional
+           BODY...)
+  #+END_EXAMPLE
