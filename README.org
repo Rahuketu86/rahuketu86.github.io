@@ -18,7 +18,6 @@
     If that means maintaining entire blog in single org file than fine.
     :END:
    
-
 ** Start Simple and improve progressively
     Focus on features which are required or are absolutely trivial to
     implement and maintain than which are buzzwords or so called best
