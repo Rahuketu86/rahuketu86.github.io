@@ -3,7 +3,10 @@
 #+DATE: 2016-12-12
 
 * Blog
+#+HTML: <hr/>
 ** So it begans ...
   #+INCLUDE: org/First.org::#Intro  :lines "1-3" :only-contents t :minlevel 1
 
   [[file:org/First.org][Read more]]
+
+#+HTML: <hr/>
