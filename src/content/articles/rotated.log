@@ -1,0 +1,5 @@
+INFO:launch: Command to Launch Emacs (2016-12-14 06:29:23; launch.py:63)
+INFO:root: Tool Name EMACS (2016-12-14 06:29:23; launch.py:65)
+INFO:launch: Environment variable EMACS_DIR => C:/rahuketu/programming/EMACS (2016-12-14 06:29:23; launch.py:48)
+INFO:launch: Environment variable EMACS_BIN => C:/rahuketu/programming/EMACS/emacs-mod/bin (2016-12-14 06:29:23; launch.py:48)
+INFO:launch: Environment variable HOME => C:/rahuketu/programming/EMACS/Emacs_Config (2016-12-14 06:29:23; launch.py:48)

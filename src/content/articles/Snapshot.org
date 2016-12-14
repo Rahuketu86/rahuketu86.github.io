@@ -1,0 +1,87 @@
+
+#+HTML_LINK_HOME: ../../index.html
+#+OPTIONS: html-postamble:nil timestamp:t title:t toc:t num:nil todo:t |:t 
+#+TITLE: A Snapshot of the day
+#+DATE: 2016-12-15
+
+
+* So here is to Why? 
+ :PROPERTIES:
+ :CUSTOM_ID: Intro
+ :END:
+  Suffering from worst case of writer's block. No fucking clue what to
+  write. Let's just write about the day.
+
+* A Very Eary Morning!
+- 4:00 HRS - Woke up! After a quick shower! Updated this blog layout
+- 5:00 HRS - Success in removing the postamble. Sleepy! Sleepy! Let's
+  go back to bed and try to catch a few more hours of sleep.
+- 6:30 HRS - Damn it! Every Single day it's the same story. Need to
+  wake up 15 mins earlier to finish my morning routine.
+- 6:50 HRS - Run! Run! Run! Need to catch Mobarak on time for
+  taxi. That asshole really ruins my morning everyday. But Wait! Lost
+  my keys ! Have to drop my set for Auntie. Let's go to Neighbours.
+- 6:55 HRS - Auntie is making tea! Everyone is chill. Yes I can have
+  a sip.
+- 7:00 HRS - In taxi! This idiot doesn't no how to drive. Sudden stop
+  and tea is on my white shirt! Damn it.
+
+* Work! SSDD! Same shit different day!
+- 7:30 HRS - Meeting for handover. Let's blab something for
+  satisfaction of respective parties. Not really useful. They are
+  gonna do whatever they want ignoring all the development.
+- 9:00 HRS - Kshitiz is the champ. Sir's HRBA has been a bit high for
+  past few days. I can relate.
+- 9:30 HRS - Done with coffee! Let's get some work done. Need to
+  finish Thermal Project by Sunday. Should we put a stone on the
+  heart and come to office on sunday?
+- 11:00 HRS - These guys really know how to waste time. I knew this
+  was gonna happen. No idea about business requirement! No idea
+  about data Model. Never check calculations ! And they are on;
+  giving training in the interior. We are fixing things which are
+  not even needed for next 1 month , in lieu of things which are
+  needed tomorrow. Why? Because AR made a commitment.
+- 11:30 HRS - Lunch time again.
+- 12:15 HRS - Resisting temptations from Kshitiz Sir and Shailendra;
+  We are going to get some juice from tropical instead of strawberry
+  cake from Costa. Great Job Mr.! This is the kind of commitment
+  that you need for next one month. Afterall you only marry once in
+  your life.
+- 13:30 HRS - Work! Work! Work! These guys are still struggling with
+  there stupid demo.
+- 15:30 HRS - Okay total fuse now. Time to get ready to go
+  home. Still deep discussions on N's Bug.
+- 15:45 HRS - They have fixed it finally. What should have been
+  finished in an hour has taken 6 days, 4 resources. They have no
+  idea what they are doing in Facility Side.
+- 16:00 HRS - Mobarak is here. Let's go home.
+
+* A Brighter Evening
+- 16:45 HRS - Lets finish up yesterdays biryani.
+- 17:00 HRS - Finally got connected to Madam after 4 days. This is
+  modern version of Romance at the time of Cholera. Only effect of
+  demonitization is seen on Her Majesty phone budget. 
+- 18:00 HRS - Love our rashakashi on phone finally feeling good.
+- 19:00 HRS - Talking to Mummy, She is feeling good. Papa is on way
+  back from Narshingpur.
+
+* Hit the Road Jack! Or You are Gonna Get Uber Fat!
+- 20:00 HRS - Finally pushed myself to go for some exercise. A couple
+  of up and down on stairs. On track now side of the
+  Road. Shailendra Bhai is finishing up there 6.5 km Run. Run!
+  Exercise! Walk. Some sit ups ! Some pull ups! Some stomach
+  exercises. He is good. Need to catch up to him if I want to see
+  some result in a month. Patience Grasshopper! Slow and Steady My
+  boy! Slow and Steady.
+- 21:00 HRS - Buy some milk and back at home. Some TV.Gimme some
+  org-mode-goodies on youtube.
+
+* NightWriter
+- 22:30 HRS - Let's get into habbit of writing.
+- 23:00 HRS - Worst Case of writer's blog. Can't think of anything
+  to say.
+- 23:30 HRS - Let's do something stupid and write about today.
+- 00:00 HRS - Finally I have reached end of the road here. I am writing in this
+  post about writing this line. Need to stop now.
+- 00:10 HRS - Seriously! Need to stop writing , stop writing
+- 00:15 HRS - THE END. Hopefully I can sleep today.

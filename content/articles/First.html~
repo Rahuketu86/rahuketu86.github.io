@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <title>So it begans &#x2026;</title>
-<!-- 2016-12-13 Tue 01:10 -->
+<!-- 2016-12-13 Tue 23:05 -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="generator" content="Org-mode">
@@ -194,7 +194,7 @@ $(function() {
 <div id="org-div-home-and-up">
  <a accesskey="h" href=""> UP </a>
  |
- <a accesskey="H" href="../index.html"> HOME </a>
+ <a accesskey="H" href="../../index.html"> HOME </a>
 </div><div id="content" class="container">
 <div class="row"><div class="col-md-9"><h1 class="title">So it begans &#x2026;</h1>
 
@@ -254,7 +254,7 @@ Gotta keep searchin' for my baby. I can't find my bluebird!
 <footer id="postamble" class="">
 <div><p class="date">Date: 2016-12-12</p>
 <p class="author">Author: Rahul Saraf</p>
-<p class="date">Created: 2016-12-13 Tue 01:10</p>
+<p class="date">Created: 2016-12-13 Tue 23:05</p>
 <p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.5.1 (<a href="http://orgmode.org">Org-mode</a> 9.0.1)</p>
 </div>
 </footer>

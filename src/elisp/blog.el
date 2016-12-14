@@ -16,6 +16,8 @@
         )
         )
       )
+;; Setting up html-postamble
+(setq org-html-postamble-format  "Published on %d. Last modified on %C")
 
 (defun blog-site-dir()
   (interactive)
@@ -23,9 +25,9 @@
 
 (defun blog-elisp()
   (interactive)
-  (find-file "C:/rahuketu/programming/static-site/rahuketu86.github.io/src/elisp/blog.el"))
+  (find-file (concat org-mode-websrc-directory  "/elisp/blog.el")))
 
 
 (provide 'blog)
 
-;;; blog.el ends here
+
