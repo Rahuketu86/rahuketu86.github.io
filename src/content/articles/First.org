@@ -1,5 +1,4 @@
-#+HTML_LINK_HOME: ../../index.html
-#+OPTIONS: html-postamble:nil timestamp:t title:t toc:t num:nil todo:t |:t 
+#+SETUPFILE: ../../org-template/level-1.SETUP
 #+TITLE: So it begans ...
 #+DATE: 2016-12-12
 

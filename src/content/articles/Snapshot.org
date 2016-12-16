@@ -1,6 +1,4 @@
-
-#+HTML_LINK_HOME: ../../index.html
-#+OPTIONS: html-postamble:nil timestamp:t title:t toc:t num:nil todo:t |:t 
+#+SETUPFILE: ../../org-template/level-1.SETUP
 #+TITLE: A Snapshot of the day
 #+DATE: 2016-12-15
 
@@ -30,7 +28,7 @@
 - 7:30 HRS - Meeting for handover. Let's blab something for
   satisfaction of respective parties. Not really useful. They are
   gonna do whatever they want ignoring all the development.
-- 9:00 HRS - Kshitiz is the champ. Sir's HRBA has been a bit high for
+- 9:00 HRS - Kshitiz is the champ. Sir's HBRA has been a bit high for
   past few days. I can relate.
 - 9:30 HRS - Done with coffee! Let's get some work done. Need to
   finish Thermal Project by Sunday. Should we put a stone on the
