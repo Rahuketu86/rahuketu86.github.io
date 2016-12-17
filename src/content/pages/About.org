@@ -1,0 +1,11 @@
+#+SETUPFILE: ../../org-template/level-0.SETUP
+#+TITLE: About Me
+
+* What about me?
+ :PROPERTIES:
+ :CUSTOM_ID: Intro
+ :END:
+ I am a Reservoir Engineer with a passion for Simulation, Machine learning, Data Analysis and Programming. I love my core domain and aspire to create a platform
+ which can produce and manage OilField with a single click. I have done programming in multiple languages professionally in JAVA , C#,
+ VBA but my real love is Python. 
+
