@@ -1,7 +1,7 @@
 #+SETUPFILE: ../../org-template/level-1.SETUP
 #+TITLE: So it begans ...
 #+DATE: 2016-12-12
-/Published on {{{date}}}/
+#+SUBTITLE: /Published on 2016-12-12/
 
 * Lets Get Started
  :PROPERTIES:

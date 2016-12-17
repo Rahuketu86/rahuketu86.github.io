@@ -1,7 +1,7 @@
 #+SETUPFILE: ../../org-template/level-1.SETUP
 #+TITLE: A Snapshot of the day
 #+DATE: 2016-12-15
-/Published on {{{date}}}/
+#+SUBTITLE: /Published on 2016-12-15/
 
 * So here is to Why? 
  :PROPERTIES:
@@ -11,6 +11,10 @@
   write. Let's just write about the day.
 
 * A Very Eary Morning!
+ :PROPERTIES:
+ :CUSTOM_ID: Morning
+ :END:
+ 
 - 4:00 HRS - Woke up! After a quick shower! Updated this blog layout
 - 5:00 HRS - Success in removing the postamble. Sleepy! Sleepy! Let's
   go back to bed and try to catch a few more hours of sleep.
@@ -25,6 +29,10 @@
   and tea is on my white shirt! Damn it.
 
 * Work! SSDD! Same shit different day!
+ :PROPERTIES:
+ :CUSTOM_ID: Work
+ :END:
+ 
 - 7:30 HRS - Meeting for handover. Let's blab something for
   satisfaction of respective parties. Not really useful. They are
   gonna do whatever they want ignoring all the development.
@@ -56,6 +64,10 @@
 - 16:00 HRS - Mobarak is here. Let's go home.
 
 * A Brighter Evening
+ :PROPERTIES:
+ :CUSTOM_ID: Evening
+ :END:
+ 
 - 16:45 HRS - Lets finish up yesterdays biryani.
 - 17:00 HRS - Finally got connected to Madam after 4 days. This is
   modern version of Romance at the time of Cholera. Only effect of
@@ -65,6 +77,10 @@
   back from Narshingpur.
 
 * Hit the Road Jack! Or You are Gonna Get Uber Fat!
+ :PROPERTIES:
+ :CUSTOM_ID: Dawn
+ :END:
+ 
 - 20:00 HRS - Finally pushed myself to go for some exercise. A couple
   of up and down on stairs. On track now side of the
   Road. Shailendra Bhai is finishing up there 6.5 km Run. Run!
@@ -76,6 +92,10 @@
   org-mode-goodies on youtube.
 
 * NightWriter
+ :PROPERTIES:
+ :CUSTOM_ID: Night
+ :END:
+ 
 - 22:30 HRS - Let's get into habbit of writing.
 - 23:00 HRS - Worst Case of writer's blog. Can't think of anything
   to say.
