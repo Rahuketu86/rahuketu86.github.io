@@ -1,3 +1,4 @@
+
 #+SETUPFILE: ../../org-template/level-1.SETUP
 #+TITLE: A Snapshot of the day
 #+DATE: 2016-12-15
@@ -10,7 +11,7 @@
   Suffering from worst case of writer's block. No fucking clue what to
   write. Let's just write about the day.
 
-* A Very Eary Morning!
+* A Very Early Morning!
  :PROPERTIES:
  :CUSTOM_ID: Morning
  :END:
