@@ -1,4 +1,3 @@
-
 #+SETUPFILE: ../../org-template/level-1.SETUP
 #+TITLE: A Snapshot of the day
 #+DATE: 2016-12-15
