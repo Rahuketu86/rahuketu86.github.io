@@ -1,0 +1,9 @@
+#+SETUPFILE: ../../org-template/level-0.SETUP
+#+TITLE: IdeaFactory
+
+
+* Ideas For Writing
+
+** TODO A Short Scifi                                               :Fiction:
+
+** TODO Copyright, AI, Free Software, Bitcoin, Future of GPL :Technology:Opinion:
